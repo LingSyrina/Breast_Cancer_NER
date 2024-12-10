@@ -1,0 +1,31 @@
+pmid,Drug Name,Cell Line,Assay
+39256791,['Cisplatin'],"['CI', 'A549', 'TK10']","[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '2.5 × 10⁵  cells/well'}}]"
+39256827,[],"['MCF7', 'SUM44PE', 'SEM']",[]
+39257649,['Cisplatin'],"['CI', 'RC', 'NY']",[]
+39258005,['Cisplatin'],"['RL', 'KD', 'HF']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '1 h', 'Drug treatment duration (hour/day)': '1 h'}}]"
+39258222,[],"['HCC1937', 'SUM149PT', 'U2OS']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39258403,['Cisplatin'],['HCT116'],"[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '1 × 10⁵  cells/well', 'Incubation Time (hour)': '24 h'}}]"
+39259576,[],[],[]
+39259941,[],"['SEM', 'DL', 'A431']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '6.11 h'}}]"
+39260382,[],[],[]
+39261014,[],[],[]
+39261049,[],[],[]
+39261596,[],"['SEM', 'MCF10A']",[]
+39262258,[],[],[]
+39262259,[],[],[]
+39262329,['Cisplatin'],"['TK', 'MON', 'HCT116']",[]
+39262478,[],"['BT474', 'T47D', 'MCF7']",[]
+39265124,[],"['CI', 'DL', '697']",[]
+39266895,[],"['CI', 'A2780']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 24 h'}}]"
+39267061,[],"['A2780', 'NY', 'CJM']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '3 h', 'Drug treatment duration (hour/day)': '3 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39267432,[],"['A549', 'MG63', 'HCT116']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '1.5 h', 'Drug treatment duration (hour/day)': '1.5 h'}}]"
+39267454,['Cisplatin'],['SEM'],[]
+39267538,[],['BT549'],[]
+39267774,['Cisplatin'],"['MCF7', 'EN', 'BT549']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '15 min'}}]"
+39268460,[],"['SKBR3', 'HT']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug Concentration (mol/L)': '10 μM', 'Drug treatment duration (hour)': '24 h'}}]"
+39268845,[],[],[]
+39271768,['Cisplatin'],"['MCF10A', 'NY']",[]
+39272080,[],"['SEM', 'RL']",[]
+39272206,[],['HT'],"[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '1 × 10⁵  cells'}}]"
+39272982,[],['NY'],[]
+39273024,[],"['BT474', 'SKBR3', 'MCF7']","[{'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': '10 μM'}}]"
