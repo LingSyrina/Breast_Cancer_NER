@@ -1,0 +1,503 @@
+pmid,Drug Name,Cell Line,Assay
+39256791,['Cisplatin'],"['CI', 'A549', 'TK10']","[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '2.5 × 10⁵  cells/well'}}]"
+39256827,[],"['MCF7', 'SUM44PE', 'SEM']",[]
+39257649,['Cisplatin'],"['CI', 'RC', 'NY']",[]
+39258005,['Cisplatin'],"['RL', 'KD', 'HF']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '1 h', 'Drug treatment duration (hour/day)': '1 h'}}]"
+39258222,[],"['HCC1937', 'SUM149PT', 'U2OS']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39258403,['Cisplatin'],['HCT116'],"[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '1 × 10⁵  cells/well', 'Incubation Time (hour)': '24 h'}}]"
+39259576,[],[],[]
+39259941,[],"['SEM', 'DL', 'A431']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '3.71 h'}}]"
+39260382,[],[],[]
+39261014,[],[],[]
+39261049,[],[],[]
+39261596,[],"['SEM', 'MCF10A']",[]
+39262258,[],[],[]
+39262259,[],[],[]
+39262329,['Cisplatin'],"['TK', 'MON', 'HCT116']",[]
+39262478,[],"['BT474', 'T47D', 'MCF7']",[]
+39265124,[],"['CI', 'DL', '697']",[]
+39266895,[],"['CI', 'A2780']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 24 h'}}]"
+39267061,[],"['A2780', 'NY', 'CJM']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '3 h', 'Drug treatment duration (hour/day)': '3 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39267432,[],"['A549', 'MG63', 'HCT116']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '1.5 h', 'Drug treatment duration (hour/day)': '1.5 h'}}]"
+39267454,['Cisplatin'],['SEM'],[]
+39267538,[],['BT549'],[]
+39267774,['Cisplatin'],"['MCF7', 'EN', 'BT549']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39268460,[],"['SKBR3', 'HT']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug Concentration (mol/L)': '10 μM', 'Drug treatment duration (hour)': '24 h'}}]"
+39268845,[],[],[]
+39271768,['Cisplatin'],"['MCF10A', 'NY']",[]
+39272080,[],"['SEM', 'RL']",[]
+39272206,[],['HT'],"[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '1 × 10⁵  cells per well'}}]"
+39272982,[],['NY'],[]
+39273024,[],"['BT474', 'SKBR3', 'MCF7']","[{'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': '10 μM'}}]"
+39273048,[],['NY'],[]
+39273076,[],[],[]
+39273106,[],"['ACN', 'SEM']",[]
+39273190,['Cisplatin'],"['HEY', 'K562', 'CI']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '20 min'}}]"
+39273679,['Cisplatin'],['K562'],[]
+39273689,[],['SEM'],[]
+39274943,['Cisplatin'],"['A2780', 'SEM']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h', 'Cell Density (cells/well)': '  cells/well'}}]"
+39274965,['alpha-lipoic acid'],"['HT', 'ACN', 'SAS']",[]
+39277592,[],"['DND41', 'HCC1599', 'CI']",[]
+39278951,[],"['HCC1806', 'SW480', 'MDAMB231']",[]
+39279701,[],[],[]
+39279908,[],"['T47D', 'KD']",[]
+39280296,[],[],[]
+39281317,[],"['MCF7', 'SEM']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}]"
+39285187,[],[],[]
+39285229,[],"['HT', 'SEM', 'JR']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '4 h', 'Drug treatment duration (hour/day)': '4 h'}}]"
+39285678,[],['SEM'],"[{'assay': 'Cell cycle', 'params': {'Cell Density (cells/well)': '2 × 10⁶  cells per well'}}]"
+39286903,[],[],[]
+39287044,[],"['CI', 'KD']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}]"
+39287183,[],[],[]
+39287790,[],"['YT', 'MJ']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '4 h', 'Drug treatment duration (hour/day)': '4 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '20 min'}}]"
+39287984,[],[],"[{'assay': 'BrdU', 'params': {'Incubation Time (hour)': '30 minutes', 'Drug treatment duration (hour)': '30 minutes'}}]"
+39289249,['Cisplatin'],"['RD', 'A549', 'MJ']",[]
+39289425,[],"['A549', 'GRM', 'TC138']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48h'}}]"
+39291032,[],"['TK', 'SAS', 'K562']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug Concentration (mol/L)': '25 μM', 'Drug treatment duration (hour)': '48 h'}}]"
+39291812,['Cisplatin'],[],"[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '  cells/well'}}]"
+39292752,['Cisplatin'],"['NY', 'H4', 'SAS']","[{'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': '4 μM'}}, {'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}]"
+39292784,[],"['T47D', 'SEM', 'MX1']","[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '2 × 10⁵  cells'}}, {'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': 'concentration of 100'}}]"
+39294175,[],"['SEM', 'MCF7', 'CI']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '4 h', 'Drug Concentration (mol/L)': '20 μM', 'Drug treatment duration (hour/day)': '4 h', 'Cell Density (cells/well)': ' cells/well'}}]"
+39294656,[],"['KD', 'NY', 'DL']",[]
+39294673,[],"['SEM', 'NY']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39296792,['Cisplatin'],[],[]
+39298484,[],"['T24', 'SEM']",[]
+39300166,[],['SEM'],"[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '1 × 10⁵  cells/well'}}]"
+39300257,[],"['K2', 'HF']",[]
+39300548,[],[],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39301551,[],"['PA1', 'HK2', 'SEM']",[]
+39301934,[],['A549'],[]
+39304594,[],"['HF', 'MJ', 'NY']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '10 min'}}]"
+39304713,[],"['KD', 'SEM', 'HCC1954']",[]
+39304876,['Cisplatin'],"['LS', 'KD', 'NY']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39304879,[],"['TT', 'RC']",[]
+39304998,[],"['A431', 'RC']",[]
+39305332,[],"['MCF7', 'HH']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}]"
+39307856,[],['MCF7'],[]
+39310027,[],"['MJ', 'SKBR3', 'RL']",[]
+39311637,[],"['JIMT1', 'NY']",[]
+39312041,[],[],[]
+39312663,[],['T47D'],[]
+39312939,[],[],[]
+39312952,[],[],[]
+39313574,['Cisplatin'],"['SKBR3', 'MCF7', 'MCF10A']",[]
+39316256,[],['MJ'],[]
+39319107,[],"['PC3', 'SKOV3', 'A375']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '4 h', 'Drug treatment duration (hour/day)': '4 h'}}]"
+39320578,['Cisplatin'],"['SEM', 'HCT116', 'MJ']",[]
+39322603,[],"['HCC1428', 'HCC1500', 'PA1']",[]
+39327614,[],"['MCF10A', 'MCF7', 'BT549']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour)': '72 h'}}]"
+39327737,[],"['RL', '697', 'SKBR3']",[]
+39328201,[],"['MJ', 'MCF10A', 'DB']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h', 'Cell Density (cells/well)': '468 cells'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '2H', 'Drug treatment duration (hour)': '2H', 'Cell Density (cells/well)': '468 cells'}}]"
+39328279,[],"['MCF7', 'CI', 'A549']",[]
+39329715,[],"['A431', 'A549', 'MCF10A']",[]
+39329960,[],"['NY', 'HCC1599', 'HCC1806']",[]
+39331092,[],['KD'],[]
+39331583,[],['A431'],[]
+39331714,[],[],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '5 hours'}}]"
+39334853,[],"['MCF7', 'CI', 'BC1']",[]
+39334877,[],"['HCT116', 'HT', 'DU145']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39334936,['Cisplatin'],"['SEM', 'GCT']",[]
+39335655,[],"['EN', 'SEM', 'A549']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39337269,[],"['SEM', 'T24', 'MCF7']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '6 h'}}, {'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '  cells/well'}}]"
+39337390,[],"['MCF7', 'MX1', 'MS1']",[]
+39337621,[],"['A549', 'A172', 'C10']",[]
+39337633,[],"['SEM', 'A431']",[]
+39338222,[],['SKBR3'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39339166,[],"['DL', 'SEM', 'ACN']",[]
+39339203,[],['DL'],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour/day)': '48 h'}}]"
+39339211,[],"['DL', 'T47D']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39339280,[],['A375'],[]
+39339370,[],"['A549', 'NY', 'HT29']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '5 min'}}]"
+39339466,[],"['MCF7', 'MCF10A']",[]
+39339753,[],"['SEM', 'T47D', 'PC3']",[]
+39340815,[],"['A549', 'MCF7', 'SEM']",[]
+39341835,[],['SEM'],[]
+39341857,[],"['MCF7', 'MCF10A']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39341960,[],"['MCF7', 'SEM']",[]
+39342122,['Cisplatin'],[],"[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '0.8 × 10⁴  cells per well', 'Incubation Time (hour)': '24 h', 'Drug Concentration (mol/L)': '300 μM', 'Drug treatment duration (hour/day)': '24 h'}}]"
+39342336,[],"['SEM', 'MJ', 'JR']",[]
+39342391,[],"['BT549', 'A549', 'U2OS']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39342582,[],[],[]
+39342604,[],[],[]
+39343993,[],[],[]
+39344410,[],"['SEM', '697', 'MCF7']",[]
+39344766,[],['MCF7'],[]
+39345747,[],[],[]
+39345749,['Cisplatin'],['MJ'],[]
+39346049,[],"['HT1080', 'MG63', 'MCF7']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39346127,['Cisplatin'],"['SEM', 'DL', 'NY']",[]
+39346539,[],"['SEM', 'MJ', 'DB']",[]
+39346823,[],"['MCF7', 'SCH', 'A549']",[]
+39347954,[],['HCT116'],[]
+39349960,[],['SEM'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '5 min'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '30 min', 'Drug treatment duration (hour)': '30 min', 'Reagent/kit/staining solution Manufacturer and Catalog Number': 'staining solution'}}]"
+39350177,[],"['SEM', 'CI']",[]
+39351061,[],['RC'],[]
+39351229,[],"['T47D', 'NY', 'SEM']",[]
+39352757,[],"['BT549', 'SEM', 'DL']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 hours'}}]"
+39353903,[],"['MCF7', 'SEM', 'KD']",[]
+39354559,[],['GCT'],[]
+39355786,['Cisplatin'],"['CI', 'JR', 'MJ']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39356167,[],"['MDAMB468', 'MCF7', 'SKBR3']",[]
+39358218,[],[],[]
+39358486,[],"['ACN', 'KD', 'NY']",[]
+39358487,['Cisplatin'],['MCF7'],[]
+39359528,[],[],[]
+39360036,[],['SEM'],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '6 h'}}]"
+39362925,[],"['MCF7', 'T47D', 'NY']",[]
+39363363,[],['BT549'],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '1 h', 'Drug treatment duration (hour/day)': '1 h'}}]"
+39364440,[],"['SEM', 'MCF7', 'KLE']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39364737,['Cisplatin'],"['HK2', 'SEM', 'HT29']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': 'incubated for 2 h', 'Drug treatment duration (hour/day)': '2 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '15 min'}}]"
+39364744,['Cisplatin'],"['HH', 'RL', 'DB']","[{'assay': 'CCK-8', 'params': {'Culture duration (Days/Weeks)': '7 days', 'Drug treatment duration (hour/day)': '7 days'}}, {'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '8×10⁴  cells per well', 'Incubation Time (hour)': '12 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39365693,"['Piperlongumine', 'Cisplatin']","['MCF10A', 'CI', 'PC3']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '3 h', 'Drug treatment duration (hour/day)': '3 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39366987,[],"['HK2', 'T47D', 'MCF7']",[]
+39367484,[],['H4'],[]
+39367855,[],"['JIMT1', 'RL']",[]
+39368988,[],"['NY', 'DL']",[]
+39369222,[],"['T47D', 'CI', 'NY']",[]
+39370492,[],[],[]
+39371991,[],"['MCF10A', 'T47D', 'SEM']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72h'}}]"
+39372872,['Cisplatin'],"['MCF7', 'CII', 'A549']",[]
+39373058,['Cisplatin'],[],[]
+39374382,[],"['T47D', 'MCF10A', 'NY']",[]
+39375243,[],[],[]
+39375718,[],[],[]
+39376579,[],"['LS', 'JR', 'DL']",[]
+39379897,['Cisplatin'],['TT'],[]
+39380145,['Cisplatin'],['MCF7'],[]
+39381998,['Cisplatin'],"['SEM', 'DB', 'DL']",[]
+39382485,['Cisplatin'],"['MCF10A', 'MDAMB231', 'MCF7']",[]
+39382719,[],[],[]
+39382998,[],['SEM'],[]
+39385030,[],"['SUM149PT', 'HCC1395', 'SUM159PT']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '2h', 'Drug treatment duration (hour)': '2h'}}]"
+39385716,[],"['SEM', 'CI', 'SAS']",[]
+39386444,[],[],[]
+39387174,[],"['A2780', 'SAS']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}]"
+39387481,[],[],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '4 h', 'Drug treatment duration (hour/day)': '4 h'}}]"
+39387580,[],"['SEM', 'RC', 'CI']",[]
+39388374,['Cisplatin'],"['CI', 'HCC38', 'SAS']","[{'assay': 'CCK-8', 'params': {'Culture duration (Days/Weeks)': '5 days', 'Drug treatment duration (hour/day)': '5 days'}}]"
+39388598,['Cisplatin'],"['HT29', 'SEM']",[]
+39390150,[],"['KD', 'MS1']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '4 h'}}]"
+39390250,[],"['SEM', 'KD', 'DL']",[]
+39390952,[],['SEM'],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '2 h', 'Drug treatment duration (hour/day)': '2 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39391245,[],['MJ'],[]
+39391525,[],[],[]
+39392082,[],['TT'],[]
+39392593,[],"['MCF7', 'RC', 'H4']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '20 min'}}]"
+39394061,[],"['PC3', 'T47D', 'JR']",[]
+39394145,[],"['MCF7', 'DL', 'SEM']",[]
+39394189,[],"['THP1', 'KD', 'DL']",[]
+39395005,['Cisplatin'],"['TT', 'A427']",[]
+39395083,['Thapsigargin'],"['U87MG', 'H4', 'HL60']","[{'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': '4 μM'}}]"
+39395135,[],"['U87MG', 'CAS1', 'U251MG']",[]
+39397001,['Cisplatin'],"['SEM', '697']",[]
+39397066,[],['SEM'],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '96 h', 'Drug treatment duration (hour/day)': '96 h'}}]"
+39397181,[],[],[]
+39397207,[],[],[]
+39399125,[],"['MCF7', 'MJ', 'JR']",[]
+39399463,[],"['697', '921']",[]
+39400682,['Cisplatin'],"['MCF7', 'A549']",[]
+39400783,[],['SEM'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '30 min'}}]"
+39401104,[],['A549'],[]
+39402557,[],['697'],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}]"
+39402579,['Cisplatin'],"['HCC1806', 'CI', 'DL']",[]
+39403185,[],"['A431', 'TK', 'BT474']",[]
+39403328,[],['YT'],[]
+39403604,[],"['SEM', 'HT', 'MJ']",[]
+39403708,[],"['YT', 'RL']",[]
+39404403,[],"['PSN1', 'ACN', 'HF']",[]
+39404461,[],[],[]
+39406784,[],"['SEM', 'TT', 'MCF7']",[]
+39407254,['Cisplatin'],['KD'],[]
+39407463,['Cisplatin'],"['PC3', '921', 'NY']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': 'treated for 24 h', 'Drug Concentration (mol/L)': '100 μM'}}]"
+39407625,[],['MCF7'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '1H', 'Cell Density (cells/well)': '3 × 10⁵  cells/well'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '1H', 'Drug treatment duration (hour)': '1H', 'Cell Density (cells/well)': '3 × 10⁵  cells/well'}}]"
+39407709,[],[],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '7 min', 'Cell Density (cells/well)': '3 × 10⁵  cells/well'}}, {'assay': 'Cell cycle', 'params': {'Cell Density (cells/well)': '  cells/well', 'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39408264,[],"['MCF7', 'MG63']",[]
+39408747,[],"['HCC1937', 'NY']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}]"
+39408826,[],"['MCF7', 'SKBR3', 'T47D']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39408842,['Cisplatin'],"['HK2', 'HT']",[]
+39408889,[],"['MCF10A', 'MCF7']",[]
+39408921,[],['SEM'],[]
+39409699,[],"['MCF10A', 'HL60']",[]
+39409880,[],"['MCF7', 'SEM', 'HCC1428']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '96 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '96 h', 'Drug treatment duration (hour)': '96 h'}}]"
+39409944,[],"['NY', 'K562']",[]
+39409987,[],"['MCF7', 'A549']",[]
+39411938,[],[],[]
+39412236,['Cisplatin'],"['MJ', 'SEM']",[]
+39413005,[],['TK'],[]
+39413161,[],['CI'],[]
+39413405,['Cisplatin'],"['HT', 'HCT116', 'DL']",[]
+39414799,[],"['DU145', 'A549', 'PC3']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': 'four hours', 'Drug treatment duration (hour/day)': 'four hours'}}]"
+39414946,[],"['SEM', 'SUM149PT', 'MCF10A']",[]
+39415210,[],"['BT20', 'NY', 'JR']",[]
+39415555,[],[],[]
+39415963,['Cisplatin'],"['RL', 'NY', 'HH']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 hours'}}]"
+39416223,[],[],[]
+39416524,[],[],[]
+39417912,[],"['SEM', 'A549', 'RL']",[]
+39418101,[],"['T47D', 'MCF10A', 'BT474']",[]
+39418263,[],"['U937', 'RD']",[]
+39420139,[],"['SEM', 'HT']",[]
+39421851,[],[],[]
+39422756,[],[],[]
+39425240,[],"['CI', 'SEM', 'HT']",[]
+39427007,['Cisplatin'],[],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour/day)': '48 h'}}, {'assay': 'Cell cycle', 'params': {'Cell Density (cells/well)': '2 × 10⁵  cells/well', 'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39427012,[],[],[]
+39427017,[],"['MCF7', 'SW480', 'U937']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39427126,['Cisplatin'],"['SKBR3', 'A375', 'A549']",[]
+39429685,[],"['NY', 'RL', 'EN']","[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '1×10⁴  cells per well', 'Incubation Time (hour)': '2 hours', 'Drug treatment duration (hour/day)': '2 hours'}}]"
+39432155,['Cisplatin'],"['MCF7', 'BT474', 'T47D']",[]
+39432387,[],"['SEM', 'MON', '921']",[]
+39433427,[],"['HCC38', 'HCC70', 'RD']",[]
+39433537,[],[],[]
+39434131,['Cisplatin'],"['HCT116', 'BT474', 'MJ']","[{'assay': 'BrdU', 'params': {'Incubation Time (hour)': '12 h', 'Drug Concentration (mol/L)': '10 μM', 'Drug treatment duration (hour)': '12 h'}}]"
+39435351,[],"['RL', 'T47D', 'H9']",[]
+39436672,[],"['DL', 'PC3', 'LS']",[]
+39436824,[],['BT20'],[]
+39437263,[],[],[]
+39438406,[],['RL'],[]
+39440050,['Cisplatin'],"['RD', 'HK2', 'HH']",[]
+39441384,[],"['HCC1937', 'MCF10A', 'BT474']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '30 min', 'Drug treatment duration (hour)': '30 min', 'Reagent/kit/staining solution Manufacturer and Catalog Number': 'staining solution'}}]"
+39441735,['Cisplatin'],"['SKMEL28', 'A375', 'HF']",[]
+39443414,[],"['MCF7', 'HN']",[]
+39443601,[],"['MCF7', 'KD', 'K5']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}]"
+39443656,[],"['SEM', 'HT']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '20 h', 'Drug treatment duration (hour/day)': '20 h'}}]"
+39443820,[],"['NY', 'YT', 'RL']",[]
+39446049,[],[],[]
+39447113,[],[],"[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '5 × 10⁴  cells per well', 'Incubation Time (hour)': '48 h'}}]"
+39448199,[],"['CI', 'NY', 'KD']",[]
+39448267,['Cisplatin'],"['RD', 'KD', 'DL']",[]
+39448366,[],"['NY', 'SEM', 'TR146']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}, {'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '30 min', 'Drug treatment duration (hour/day)': '30 min'}}]"
+39448577,[],['SEM'],[]
+39448672,['Cisplatin'],"['SKBR3', 'CI', 'BT474']",[]
+39448707,[],"['LS180', 'T47D', 'HT']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour)': '72 h'}}]"
+39449928,[],[],[]
+39450881,[],['NY'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '5 min'}}]"
+39450890,[],"['H4', 'LCLC97TM1', 'HT']",[]
+39450994,[],"['HT', 'SEM']",[]
+39451228,[],"['MCF7', 'K562', 'A549']",[]
+39452867,['Cisplatin'],"['NY', 'T47D', 'SEM']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39452882,[],['SEM'],"[{'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': '0.5 μM', 'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 24 h'}}]"
+39456028,['Cisplatin'],"['CI', 'MJ', 'TK']","[{'assay': 'CCK-8', 'params': {'Drug Concentration (mol/L)': '20 μM'}}]"
+39456218,['Cisplatin'],"['HCC1395', 'SEM']",[]
+39456536,[],"['HCT116', 'SEM', 'SW480']",[]
+39456676,[],"['MCF7', 'A549', 'NY']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour)': '72 h'}}]"
+39456679,[],['MCF7'],[]
+39456890,[],"['CI', 'U937']",[]
+39457440,[],"['T47D', 'C32']",[]
+39457710,[],"['MCF7', 'K562']",[]
+39458584,[],['HCC1937'],"[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug Concentration (mol/L)': '20 μM', 'Drug treatment duration (hour)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39458896,['Cisplatin'],"['NY', 'HCT116', 'ACN']",[]
+39460738,[],"['NY', 'RD', 'RL']",[]
+39461888,[],[],[]
+39462444,[],[],[]
+39462900,[],"['SEM', 'HT29', 'HCT116']",[]
+39463375,['Cisplatin'],"['H4', 'NY', 'A549']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}, {'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '48 h', 'Drug Concentration (mol/L)': '50 μM', 'Drug treatment duration (hour/day)': '48 h'}}]"
+39463723,[],"['SKBR3', 'KD', 'RL']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 hours'}}]"
+39464086,[],[],[]
+39464677,[],"['NY', 'HT']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '10 min'}}]"
+39466383,[],['RD'],[]
+39468145,[],[],[]
+39468189,[],"['A549', 'NY', 'MCF7']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour/day)': '48 h'}}]"
+39468211,[],"['MCF7', 'SEM']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '4 h', 'Drug treatment duration (hour/day)': '4 h'}}]"
+39468438,[],[],[]
+39468555,[],"['MCF7', 'MCF10A', 'MJ']",[]
+39469113,[],['CI'],[]
+39469630,[],"['MCF10A', 'HCC1806', 'BT549']",[]
+39469631,[],"['CI', 'T47D']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39470470,['Cisplatin'],[],[]
+39471014,[],[],[]
+39472530,[],"['ACN', 'SEM']",[]
+39472679,[],[],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}]"
+39472694,[],['CI'],[]
+39472818,[],[],[]
+39473207,[],[],[]
+39473208,[],[],[]
+39474123,[],[],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 hours', 'Drug treatment duration (hour/day)': '24 hours'}}]"
+39474419,['Cisplatin'],"['SW480', 'RC', 'ABC1']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 15 min'}}]"
+39474581,[],[],[]
+39474658,[],[],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39475013,['Cisplatin'],"['NY', 'SAS']",[]
+39475157,[],"['ACN', 'CI']",[]
+39475502,[],['T47D'],[]
+39475614,[],['SEM'],[]
+39475623,[],"['U87MG', 'A549']",[]
+39477308,[],[],[]
+39477324,[],[],[]
+39478150,[],"['HCC1806', 'HCC1599', 'SEM']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '72 h', 'Drug Concentration (mol/L)': '1 μM', 'Drug treatment duration (hour)': '72 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '18 h'}}, {'assay': 'BrdU', 'params': {'Incubation Time (hour)': '2 h', 'Drug Concentration (mol/L)': '10 μM', 'Drug treatment duration (hour)': '2 h'}}]"
+39478577,[],"['MCF7', 'T47D', 'SUM44PE']",[]
+39480521,['Cisplatin'],"['CAL27', 'MJ', 'RL']",[]
+39482441,[],['DL'],"[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '231 cells'}}]"
+39482666,[],"['JR', 'DL', 'T47D']",[]
+39483131,['Cisplatin'],"['HCT116', 'MCF7', 'SBC3']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '4 h'}}, {'assay': 'CCK-8', 'params': {'Drug Concentration (mol/L)': '2 mM'}}]"
+39483473,[],"['NY', 'SAS', 'MCF10A']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '2 h', 'Drug treatment duration (hour/day)': '2 h'}}]"
+39484064,[],[],[]
+39484725,[],"['MCF7', 'MCF10A', 'HEYA8']",[]
+39484816,[],"['A549', 'VAL']",[]
+39485242,[],"['T47D', 'SAS']",[]
+39487929,[],"['BT474', 'JR', 'LS']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '10 h', 'Drug treatment duration (hour)': '10 h'}}]"
+39492759,[],"['SW480', 'A549', 'SKOV3']",[]
+39493351,[],"['BT474', 'SKBR3', 'A431']",[]
+39493360,['Cisplatin'],"['CI', 'HCT116', 'PC3']",[]
+39494337,['Cisplatin'],"['HT', 'DL']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}]"
+39497135,[],"['MCF7', 'SEM', 'DL']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '1 h', 'Drug treatment duration (hour)': '1 h', 'Drug Concentration (mol/L)': '9.65 mM'}}]"
+39497152,[],"['HT1080', 'U2OS', 'HT29']",[]
+39499082,[],"['MCF7', 'CI', 'K5']",[]
+39499621,[],"['ACN', 'KD', 'MCF10A']",[]
+39500869,[],"['T47D', 'MCF7', 'BT20']",[]
+39501057,['Cisplatin'],"['BT549', 'MCF10A', 'NY']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': 'incubated for 2 h', 'Drug treatment duration (hour/day)': '2 h'}}]"
+39501960,[],[],[]
+39503902,['Cisplatin'],"['CI', 'SEM', 'NY']","[{'assay': 'Cell cycle', 'params': {'Cell Density (cells/well)': '1.5 × 10⁶  cells/well', 'Incubation Time (hour)': 'incubated for 24 h', 'Drug Concentration (mol/L)': '0.625 μM', 'Drug treatment duration (hour)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39504304,['Cisplatin'],"['SEM', 'HT', 'A431']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '5 min', 'Drug treatment duration (hour)': '5 min', 'Drug Concentration (mol/L)': 'concentration of 2.73'}}]"
+39504328,[],"['HCT116', 'A549', 'SEM']",[]
+39504368,[],['SEM'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '15 min'}}]"
+39504377,[],"['MCF7', 'CI']","[{'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': '0.5 mM'}}]"
+39505903,[],[],[]
+39506058,['Cisplatin'],['SEM'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}]"
+39506777,[],[],"[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '6 h', 'Drug treatment duration (hour)': '6 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '6 h'}}]"
+39506780,['Cisplatin'],"['JR', 'LS', 'NY']",[]
+39506852,[],"['HCC1937', 'SUM159PT', 'MCF10A']",[]
+39512500,[],"['LS', 'RL']",[]
+39513002,['Cisplatin'],"['BT474', 'HCC202', 'HCC1569']",[]
+39513908,[],"['HAP1', 'SKBR3']",[]
+39514971,[],[],[]
+39516537,['Cisplatin'],[],"[{'assay': 'CCK-8', 'params': {'Drug Concentration (mol/L)': '2 μM', 'Incubation Time (hour)': 'incubated for 2 h', 'Drug treatment duration (hour/day)': '24 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39516823,[],"['SEM', 'SKOV3', 'A2780']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39518071,[],['MCF7'],"[{'assay': 'CCK-8', 'params': {'Culture duration (Days/Weeks)': '7 days', 'Drug treatment duration (hour/day)': '7 days'}}]"
+39518148,[],['NY'],[]
+39518898,['Cisplatin'],"['SEM', 'NY']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39518934,[],"['MCF7', 'SEM']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h', 'Cell Density (cells/well)': '3 × 10⁴  cells per well'}}, {'assay': 'BrdU', 'params': {'Drug Concentration (mol/L)': '10μM', 'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39519023,[],['SEM'],"[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}]"
+39519118,[],"['HT1080', 'HT', 'NY']",[]
+39519124,[],['CI'],[]
+39519260,[],"['T47D', 'MCF7', 'PC3']",[]
+39519266,['Cisplatin'],"['DU145', 'HCC1806', 'A549']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '2 h', 'Drug treatment duration (hour/day)': '2 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39520723,[],[],[]
+39521748,[],"['MCF7', 'RPMI8226']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 24 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': 'incubated for 24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39521829,[],['PC3'],"[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '000 cells', 'Incubation Time (hour)': '5 min'}}, {'assay': 'Cell cycle', 'params': {'Cell Density (cells/well)': '000 cells', 'Incubation Time (hour)': '5 min', 'Drug treatment duration (hour)': '5 min'}}]"
+39523372,[],"['HCC1806', 'SEM', 'T47D']","[{'assay': 'CCK-8', 'params': {'Culture duration (Days/Weeks)': '3 days', 'Drug treatment duration (hour/day)': '60 h', 'Incubation Time (hour)': '30 min', 'Drug Concentration (mol/L)': '4.5 μM'}}]"
+39523548,[],"['K2', 'CI', '921']",[]
+39525004,[],"['NY', 'SEM', 'LS']",[]
+39527598,[],"['SEM', 'HF', 'MS1']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '4H', 'Drug treatment duration (hour)': '4H'}}]"
+39529543,['Cisplatin'],"['BT20', 'HK2', 'LS']","[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '468 cells', 'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '5H'}}]"
+39529627,[],"['TT', 'HT', 'HF']",[]
+39530008,['Cisplatin'],"['SKBR3', 'TK', 'RL']",[]
+39530107,[],['RD'],[]
+39530732,[],[],[]
+39531174,['Cisplatin'],"['HCC1937', 'DL', 'EN']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '30 min'}}]"
+39531517,['Cisplatin'],"['MCF7', 'BT549', 'MCF10A']",[]
+39532433,[],"['HCC1937', 'MCF10A', 'TT']",[]
+39532855,[],"['HCC1806', 'HF', 'RD']",[]
+39533434,[],"['SEM', 'K562', 'KKU213']",[]
+39537766,[],['A549'],[]
+39538154,[],"['MCF7', 'RC', 'MJ']",[]
+39539163,[],"['SEM', 'HT', 'T47D']",[]
+39539450,[],[],[]
+39539969,['Cisplatin'],['RC'],[]
+39540317,[],"['SEM', 'MCF7']",[]
+39541354,[],"['SEM', 'CI', 'BT549']",[]
+39542653,[],"['KD', 'BT474', 'SKBR3']",[]
+39543094,['Cisplatin'],"['MJ', 'A549', 'HH']",[]
+39543257,['Cisplatin'],"['HF', 'H4']",[]
+39543704,[],"['SEM', 'ACN', 'TK']",[]
+39544488,[],[],[]
+39548116,['Cisplatin'],"['HCC1937', 'MCF7', '184B5']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour)': '72 h'}}]"
+39549046,[],"['A375', 'ASPC1', 'BXPC3']",[]
+39550407,['Cisplatin'],"['MJ', 'RC']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}]"
+39550554,[],"['SEM', 'RL', 'TT']",[]
+39553459,[],['MCF7'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '5 h'}}]"
+39554592,[],[],[]
+39555060,[],"['MCF7', 'YT', 'H4']","[{'assay': 'CCK-8', 'params': {'Drug Concentration (mol/L)': 'concentration of 1', 'Incubation Time (hour)': '2 hours', 'Drug treatment duration (hour/day)': '2 hours'}}, {'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '5 cells per well'}}]"
+39555361,['Cisplatin'],['HF'],[]
+39556159,[],"['HCC1937', 'TK']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '30 min', 'Drug treatment duration (hour)': '30 min'}}, {'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '3 h', 'Drug treatment duration (hour/day)': '3 h'}}]"
+39556719,['Cisplatin'],"['SEM', 'MCF10A', 'SAS']",[]
+39557682,[],"['SKBR3', 'HT29']",[]
+39557820,[],"['MCF7', 'MCF10A', 'OE19']",[]
+39557898,['Cisplatin'],"['CI', 'T47D', 'GCT']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39558000,[],"['BT549', '184B5', 'HCC1937']","[{'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '2 × 10⁵  cells per well'}}]"
+39558215,[],"['MCF7', 'T47D', 'DL']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': 'incubated for 1 h', 'Drug treatment duration (hour/day)': '1 h'}}]"
+39558342,['Cisplatin'],"['HCC1937', 'MCF7']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '20 min'}}]"
+39558346,[],[],[]
+39559821,['Cisplatin'],"['JR', 'RC']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '4 h', 'Drug treatment duration (hour/day)': '4 h'}}]"
+39560680,[],[],[]
+39560990,[],"['SEM', 'A549', 'K562']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '72 h'}}, {'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}]"
+39563418,[],"['CI', 'U2OS']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '1.5 h', 'Drug treatment duration (hour/day)': '1.5 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '30 min'}}]"
+39565448,[],['SEM'],[]
+39567558,[],['SEM'],[]
+39567714,[],"['BT549', 'MCF7']",[]
+39567942,[],['A549'],[]
+39569682,[],"['MCF10A', 'MCF7', 'LS']",[]
+39572705,[],"['U937', 'MCF7', 'T47D']",[]
+39574120,['Cisplatin'],"['T47D', 'BT474', 'SUM159PT']","[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '1000 cells per well', 'Incubation Time (hour)': '2 h', 'Drug treatment duration (hour/day)': '2 h'}}]"
+39574707,[],[],[]
+39576770,[],"['MCF7', 'HCC1143', 'RL']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 hours'}}, {'assay': 'Cell cycle', 'params': {'Drug Concentration (mol/L)': '2mM'}}]"
+39576967,['Cisplatin'],"['SEM', 'SAS']",[]
+39582014,[],"['MCF10A', 'JR', 'LS']",[]
+39587128,['Cisplatin'],[],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39587886,[],"['T47D', 'MJ', 'TT']",[]
+39589549,[],"['SKBR3', 'BT474', 'HCC1806']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '20 min', 'Cell Density (cells/well)': '6 cells per well'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': 'two hours', 'Drug treatment duration (hour)': 'two hours', 'Reagent/kit/staining solution Manufacturer and Catalog Number': 'staining solution'}}]"
+39589605,[],"['LS', 'MCF7', 'SEM']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39590296,[],"['NY', 'HK2', 'CI']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39590334,[],"['MCF10A', 'MCF7', 'HCC1937']",[]
+39592591,[],"['CI', 'HEL', 'SET2']",[]
+39592736,[],[],[]
+39593108,[],"['T47D', 'MCF7', 'PC3']",[]
+39593161,[],"['SEM', 'MX1', 'BT549']",[]
+39594441,[],"['HS578T', 'T47D', 'KD']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39594666,[],"['HCC1806', 'HCC1937']",[]
+39594707,[],"['BT474', 'SKBR3', 'CI']",[]
+39594764,['Cisplatin'],['LS'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48h', 'Drug treatment duration (hour)': '48h'}}]"
+39594999,[],"['NY', 'T47D', 'MCF7']",[]
+39595615,[],['NY'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 h'}}]"
+39595631,['Cisplatin'],"['MCF10A', 'LS', 'HT']","[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '1 × 10⁴  cells/well'}}, {'assay': 'Cell cycle', 'params': {'Cell Density (cells/well)': '231 cells per well', 'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour)': '24 h'}}]"
+39596057,[],['SKBR3'],"[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39596169,[],"['HCC1954', 'SKBR3', 'CI']",[]
+39596465,[],"['T47D', 'TK', 'NY']",[]
+39596658,['Cisplatin'],[],[]
+39596804,[],['MCF7'],[]
+39598379,['Cisplatin'],"['RBE', 'T47D', 'MCF7']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39598560,['Cisplatin'],"['A2780', 'MCF7', 'HCT116']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour)': '72 h'}}]"
+39598664,['Cisplatin'],"['MCF7', 'MCF10A', 'MDAMB231']",[]
+39598693,[],['A2780'],[]
+39598716,['Cisplatin'],['A549'],"[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 30 min'}}]"
+39600410,[],"['VAL', 'MCF10A', 'F5']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 30 min'}}]"
+39605038,[],"['MFM223', 'BT20', 'DU4475']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '10 min', 'Drug treatment duration (hour/day)': '10 min'}}]"
+39605453,[],[],[]
+39605479,[],[],[]
+39609299,['Cisplatin'],"['SEM', 'HF', 'HCT15']",[]
+39609706,[],"['SEM', 'HK2', 'SKBR3']",[]
+39609783,[],"['CI', 'SKBR3', 'HT']",[]
+39611037,[],"['SEM', 'NY', 'SKBR3']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '24 hours'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '4 hours', 'Drug treatment duration (hour)': '4 hours'}}]"
+39611484,[],[],[]
+39611918,[],[],[]
+39611921,[],[],[]
+39612279,[],[],[]
+39613781,[],[],[]
+39614277,['Cisplatin'],['A549'],[]
+39614338,[],"['SKBR3', 'CI', 'T47D']",[]
+39614393,[],"['HCC1806', 'HCC1937', 'SEM']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '48 h'}}]"
+39617792,[],"['MCF7', 'BT549', 'T47D']",[]
+39619057,[],"['MJ', 'A549', 'NY']","[{'assay': 'Cell cycle', 'params': {'Cell Density (cells/well)': '468 cells', 'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour)': '72 h'}}, {'assay': 'apoptotic assay', 'params': {'Cell Density (cells/well)': '0.4×10⁵  cells/well'}}]"
+39619199,[],"['SEM', 'K562', 'LS']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': 'incubated for 15 min'}}]"
+39619421,[],"['COV362', 'OVCAR5', 'RL']","[{'assay': 'CCK-8', 'params': {'Cell Density (cells/well)': '000 cells/well', 'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour/day)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '12 h'}}, {'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour)': '48 h'}}]"
+39619437,[],"['RC', 'KD', 'MCF7']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 hours', 'Drug treatment duration (hour/day)': '24 hours'}}]"
+39620056,['Cisplatin'],"['MJ', 'RC', 'JR']",[]
+39623404,[],['HT'],[]
+39625392,[],[],[]
+39627188,[],"['KD', 'BT474', 'A549']",[]
+39627198,[],"['HCT116', 'SW480', 'HCT15']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '72 h', 'Drug treatment duration (hour/day)': '72 h'}}]"
+39627279,['Cisplatin'],[],[]
+39627767,[],"['HCC1806', 'SUM1315MO2', 'T47D']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '10 min'}}]"
+39627778,[],"['PC3', 'DU145', 'MCF7']",[]
+39629122,[],"['MCF7', 'JR', 'HF']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '48 h', 'Drug treatment duration (hour/day)': '48 h'}}, {'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '5 min'}}]"
+39629131,[],"['MJ', 'RC', 'HH']",[]
+39630192,[],"['PC3', 'T47D', 'LS180']","[{'assay': 'apoptotic assay', 'params': {'Incubation Time (hour)': '30 min'}}]"
+39630699,[],[],[]
+39630893,[],"['BT474', 'ACN', 'SEM']",[]
+39632807,[],"['AU565', 'HT', 'ACN']",[]
+39633082,[],"['SKOV3', 'MCF7', 'CAOV3']","[{'assay': 'Cell cycle', 'params': {'Incubation Time (hour)': '24h', 'Drug treatment duration (hour)': '24h', 'Drug Concentration (mol/L)': '5 μM'}}]"
+39633214,['Cisplatin'],"['CI', 'SEM', 'DB']",[]
+39633486,[],"['IGROV1', 'NY', 'OAW42']","[{'assay': 'CCK-8', 'params': {'Culture duration (Days/Weeks)': '14 days', 'Drug Concentration (mol/L)': 'concentration of 300', 'Drug treatment duration (hour/day)': '14 days', 'Cell Density (cells/well)': '3 cells per well', 'Incubation Time (hour)': '96 h'}}]"
+39636855,[],"['H4', 'HK2', 'KD']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '24 h', 'Drug treatment duration (hour/day)': '24 h'}}]"
+39639119,[],"['697', 'MCF10A']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '2 H', 'Drug treatment duration (hour/day)': '2 H'}}]"
+39639654,[],[],[]
+39641870,[],"['MCF7', 'SEM', 'RD']","[{'assay': 'CCK-8', 'params': {'Incubation Time (hour)': '2 h', 'Drug treatment duration (hour/day)': '2 h'}}]"
