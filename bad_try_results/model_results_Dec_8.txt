@@ -1,0 +1,33 @@
+Evaluating the initial model performance...
+Step: 0 | Logs: {'eval_loss': 2.8986165523529053, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.0072685539403213465, 'eval_recall': 0.20212765957446807, 'eval_f1': 0.014032496307237812, 'eval_runtime': 19.5813, 'eval_samples_per_second': 4.29, 'eval_steps_per_second': 0.562}
+Initial Metrics: {'eval_loss': 2.8986165523529053, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.0072685539403213465, 'eval_recall': 0.20212765957446807, 'eval_f1': 0.014032496307237812, 'eval_runtime': 19.5813, 'eval_samples_per_second': 4.29, 'eval_steps_per_second': 0.562}
+model training start:
+Training has begun...
+Step: 1 | Logs: {'loss': 2.9048, 'grad_norm': 46.37968063354492, 'learning_rate': 1.9682539682539684e-05, 'epoch': 0.047619047619047616}
+{'loss': 2.9048, 'grad_norm': 46.37968063354492, 'learning_rate': 1.9682539682539684e-05, 'epoch': 0.05}
+Step: 10 | Logs: {'loss': 1.4665, 'grad_norm': 18.277252197265625, 'learning_rate': 1.6825396825396828e-05, 'epoch': 0.47619047619047616}
+{'loss': 1.4665, 'grad_norm': 18.277252197265625, 'learning_rate': 1.6825396825396828e-05, 'epoch': 0.48}
+Step: 20 | Logs: {'loss': 0.2947, 'grad_norm': 3.72747802734375, 'learning_rate': 1.3650793650793652e-05, 'epoch': 0.9523809523809523}
+{'loss': 0.2947, 'grad_norm': 3.72747802734375, 'learning_rate': 1.3650793650793652e-05, 'epoch': 0.95}
+Epoch 1.0 has ended.
+Step: 21 | Logs: {'eval_loss': 0.15420500934123993, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.0, 'eval_recall': 0.0, 'eval_f1': 0.0, 'eval_runtime': 16.9341, 'eval_samples_per_second': 4.96, 'eval_steps_per_second': 0.65, 'epoch': 1.0}
+{'eval_loss': 0.15420500934123993, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.0, 'eval_recall': 0.0, 'eval_f1': 0.0, 'eval_runtime': 16.9341, 'eval_samples_per_second': 4.96, 'eval_steps_per_second': 0.65, 'epoch': 1.0}
+Step: 30 | Logs: {'loss': 0.186, 'grad_norm': 1.998885989189148, 'learning_rate': 1.0476190476190477e-05, 'epoch': 1.4285714285714286}
+{'loss': 0.186, 'grad_norm': 1.998885989189148, 'learning_rate': 1.0476190476190477e-05, 'epoch': 1.43}
+Step: 40 | Logs: {'loss': 0.1388, 'grad_norm': 2.416231393814087, 'learning_rate': 7.301587301587301e-06, 'epoch': 1.9047619047619047}
+{'loss': 0.1388, 'grad_norm': 2.416231393814087, 'learning_rate': 7.301587301587301e-06, 'epoch': 1.9}
+Epoch 2.0 has ended.
+Step: 42 | Logs: {'eval_loss': 0.09861285239458084, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.7534246575342466, 'eval_recall': 0.5851063829787234, 'eval_f1': 0.658682634730539, 'eval_runtime': 16.6514, 'eval_samples_per_second': 5.045, 'eval_steps_per_second': 0.661, 'epoch': 2.0}
+{'eval_loss': 0.09861285239458084, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.7534246575342466, 'eval_recall': 0.5851063829787234, 'eval_f1': 0.658682634730539, 'eval_runtime': 16.6514, 'eval_samples_per_second': 5.045, 'eval_steps_per_second': 0.661, 'epoch': 2.0}
+Step: 50 | Logs: {'loss': 0.1067, 'grad_norm': 1.876083493232727, 'learning_rate': 4.126984126984127e-06, 'epoch': 2.380952380952381}
+{'loss': 0.1067, 'grad_norm': 1.876083493232727, 'learning_rate': 4.126984126984127e-06, 'epoch': 2.38}
+Step: 60 | Logs: {'loss': 0.0793, 'grad_norm': 2.071303129196167, 'learning_rate': 9.523809523809525e-07, 'epoch': 2.857142857142857}
+{'loss': 0.0793, 'grad_norm': 2.071303129196167, 'learning_rate': 9.523809523809525e-07, 'epoch': 2.86}
+Epoch 3.0 has ended.
+Step: 63 | Logs: {'eval_loss': 0.09037528932094574, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.7407407407407407, 'eval_recall': 0.6382978723404256, 'eval_f1': 0.6857142857142857, 'eval_runtime': 17.147, 'eval_samples_per_second': 4.899, 'eval_steps_per_second': 0.642, 'epoch': 3.0}
+{'eval_loss': 0.09037528932094574, 'eval_model_preparation_time': 0.0038, 'eval_precision': 0.7407407407407407, 'eval_recall': 0.6382978723404256, 'eval_f1': 0.6857142857142857, 'eval_runtime': 17.147, 'eval_samples_per_second': 4.899, 'eval_steps_per_second': 0.642, 'epoch': 3.0}
+Step: 63 | Logs: {'train_runtime': 871.1883, 'train_samples_per_second': 1.154, 'train_steps_per_second': 0.072, 'total_flos': 262634104857600.0, 'train_loss': 0.38981985430868843, 'epoch': 3.0}
+{'train_runtime': 871.1883, 'train_samples_per_second': 1.154, 'train_steps_per_second': 0.072, 'train_loss': 0.38981985430868843, 'epoch': 3.0}
+Training is complete.
+Model saved to 'trained_ner_model'
+"base_out_4103271.out" 105L, 14971B  
