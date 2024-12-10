@@ -157,7 +157,7 @@ def retrieve_papers_with_pubmed(query, api_key, output_dir, max_results=10):
 query = '"breast cancer" AND "cell line" AND "treat"'
 
 # PubMed API key (replace with your actual key)
-api_key = "7dee37e8a124297a10bb6a13912206aea608"
+api_key = "PubmedKey"
 
 # Specify output directory
 output_dir = "/Users/leasyrin/Downloads/IUB_PhD/CS/L645:B659/Final project/pubmed_queries/full_outputs"
