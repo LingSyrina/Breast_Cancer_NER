@@ -1,0 +1,217 @@
+{
+  "apoptotic assay": {
+        "keywords": [
+            "(?i)\\bapoptosis\\b",
+            "(?i)\\bapoptotic\\b",
+            "(?i)\\bannexin\\b"
+        ],
+        "parameters": {
+            "Cell Density (cells/well)": [
+                "\\\\b(\\\\d+(\\\\.\\\\d+)?(?:\\\\s*[×x]\\\\s*\\\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)?\\\\s+cells/well\\\\b",
+                "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells per well\\\\b",
+                "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells\\\\b(?=.*\\\\b\\d+-well\\\\b)",
+                "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+per well\\\\b"
+            ],
+            "Incubation Time (hour)": [
+                "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+                "(?i)\\\\bincubated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+                "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+                "(?i)\\\\bincubated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+            ]
+        }
+    },
+    "Cell cycle": {
+        "keywords": [
+            "(?i)\\bcell cycle\\b",
+            "(?i)\\bcycle analysis\\b"
+        ],
+        "parameters": {
+            "Cell Density (cells/well)": [
+                "\\\\b(\\\\d+(\\\\.\\\\d+)?(?:\\\\s*[×x]\\\\s*\\\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)?\\\\s+cells/well\\\\b",
+                "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells per well\\\\b",
+                "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells\\\\b(?=.*\\\\b\\d+-well\\\\b)",
+                "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+per well\\\\b"
+            ],
+            "Incubation Time (hour)": [
+                "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+                "(?i)\\\\bincubated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+                "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+                "(?i)\\\\bincubated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+            ],
+            "Drug Concentration (mol/L)": [
+                "\\b\\d+(\\.\\d+)?\\s*(mol/L|mM|µM|μM)\\b",
+                "\\bconcentration of\\s*\\d+(\\.\\d+)?\\b"
+            ],
+            "Drug treatment duration (hour)": [
+              "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\btreated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\btreated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+            ],
+            "Reagent/kit/staining solution Manufacturer and Catalog Number": [
+                "\\bManufacturer\\b",
+                "\\bCatalog Number\\b",
+                "\\breagent kit\\b",
+                "\\bstaining solution\\b"
+            ]
+        }
+    },
+    "BrdU": {
+        "keywords": [
+            "(?i)\\bBrdU\\b"
+        ],
+        "parameters": {
+            "Cell Density (cells/well)": [
+              "\\\\b(\\\\d+(\\\\.\\\\d+)?(?:\\\\s*[×x]\\\\s*\\\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)?\\\\s+cells/well\\\\b",
+              "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells per well\\\\b",
+              "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells\\\\b(?=.*\\\\b\\d+-well\\\\b)",
+              "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+per well\\\\b"
+            ],
+            "Incubation Time (hour)": [
+              "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\bincubated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\bincubated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+            ],
+            "Drug Concentration (mol/L)": [
+                "\\b\\d+(\\.\\d+)?\\s*(mol/L|mM|µM|μM)\\b",
+                "\\bconcentration of\\s*\\d+(\\.\\d+)?\\b"
+            ],
+            "Drug treatment duration (hour)": [
+              "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\btreated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\btreated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+            ]
+        }
+    },
+    "CCK-8": {
+        "keywords": [
+            "(?i)\\bcck-8\\b",
+            "(?i)\\bcell viability assay\\b",
+            "(?i)\\bcell counting kit\\b"
+        ],
+        "parameters": {
+            "Cell Density (cells/well)": [
+              "\\\\b(\\\\d+(\\\\.\\\\d+)?(?:\\\\s*[×x]\\\\s*\\\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)?\\\\s+cells/well\\\\b",
+              "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells per well\\\\b",
+              "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells\\\\b(?=.*\\\\b\\d+-well\\\\b)",
+              "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+per well\\\\b"
+            ],
+            "Incubation Time (hour)": [
+              "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\bincubated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+              "(?i)\\\\bincubated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+            ],
+            "Culture duration (Days/Weeks)": [
+                "\\b\\d+\\s*(days?|weeks?)\\b"
+            ],
+            "Drug Concentration (mol/L)": [
+                "\\b\\d+(\\.\\d+)?\\s*(mol/L|mM|µM|μM)\\b",
+                "\\bconcentration of\\s*\\d+(\\.\\d+)?\\b"
+            ],
+            "Drug treatment duration (hour/day)": [
+              "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+              "(?i)\\\\btreated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+              "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+              "(?i)\\\\btreated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+              ]
+        }
+    },
+
+    "Colony Formation": {
+        "keywords": [
+            "(?i)\\bFlat clone Assay\\b",
+            "(?i)\\bClonogenic Assay\\b",
+            "(?i)\\bColony Formation\\b"
+        ],
+        "Cell Density (cells/well)": [
+          "\\\\b(\\\\d+(\\\\.\\\\d+)?(?:\\\\s*[×x]\\\\s*\\\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)?\\\\s+cells/well\\\\b",
+          "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells per well\\\\b",
+          "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells\\\\b(?=.*\\\\b\\d+-well\\\\b)",
+          "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+per well\\\\b"
+        ],
+        "Incubation Time (day/week)": [
+            "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\bincubated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\bincubated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+        ],
+        "Drug treatment duration (hour/day)": [
+          "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+          "(?i)\\\\btreated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+          "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+          "(?i)\\\\btreated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+        ],
+        "Drug Concentration (mol/L)": [
+            "Drug Concentration",
+            "\\bmol/L\\b"
+        ]
+    },
+    "Wound-Healing": {
+        "keywords": [
+            "(?i)\\bScratch\\b",
+            "(?i)\\bWound scratch assay\\b",
+            "(?i)\\bwound healing assay\\b"
+        ],
+        "Serum Starvation Period (hour)": [
+          "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+          "(?i)\\\\bstarved for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+          "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+          "(?i)\\\\bstarved for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+        ],
+        "Incubation Time (day/week)": [
+            "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\bincubated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\bincubated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+        ],
+        "Chemoattractant Concentration (mmol/L)": [
+            "Chemoattractant Concentration",
+            "\\bmmol/L\\b"
+        ],
+        "Cell population (cells)": [
+            "Cell population",
+            "\\bcells\\b"
+        ]
+    },
+    "Transwell": {
+        "keywords": [
+            "(?i)\\bBoyden Chamber Assay\\b",
+            "(?i)\\bMigration Assay\\b",
+            "(?i)\\bTransmembrane Migration Assay\\b"
+        ],
+        "Serum Starvation Period (hour)": [
+          "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+          "(?i)\\\\bstarved for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+          "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+          "(?i)\\\\bstarved for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+        ],
+        "Incubation Time (day/week)": [
+            "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\bincubated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?)\\\\b",
+            "(?i)\\\\bincubated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+        ],
+        "Chemoattractant Concentration (mmol/L)": [
+            "Chemoattractant Concentration",
+            "\\bmmol/L\\b"
+        ],
+        "Cell population (cells)": [
+            "Cell population",
+            "\\\\b(\\d+(\\.\\d+)?(?:\\\\s*[×x]\\\\s*\\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)?)\\\\s+cells\\\\b"
+        ],
+        "Drug treatment duration (hour/day)": [
+          "(?i)\\\\b\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+          "(?i)\\\\btreated for\\\\s*\\d+(\\.\\d+)?\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+          "(?i)\\\\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\s*(hours?|h|minutes?|mins?|day?|days?)\\\\b",
+          "(?i)\\\\btreated for\\\\s*(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\\\\b"
+        ],
+        "Whether Matrigel (or other types of ECM) was precoated": [
+            "Matrigel",
+            "extracellular matrix",
+            "ECM precoated"
+        ]
+    }
+}
