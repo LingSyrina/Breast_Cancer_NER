@@ -1,0 +1,21 @@
+{
+    "O": 0,
+    "B-Drug": 1,
+    "I-Drug": 2,
+    "B-Cell Density (cells/well)": 3,
+    "I-Cell Density (cells/well)": 4,
+    "B-CellLine": 5,
+    "I-CellLine": 6,
+    "B-Incubation Time (hour)": 7,
+    "I-Incubation Time (hour)": 8,
+    "B-Drug treatment duration (hour/day)": 9,
+    "I-Drug treatment duration (hour/day)": 10,
+    "B-Drug Concentration (mol/L)": 11,
+    "I-Drug Concentration (mol/L)": 12,
+    "B-Drug treatment duration (hour)": 13,
+    "I-Drug treatment duration (hour)": 14,
+    "B-Reagent/kit/staining solution Manufacturer and Catalog Number": 15,
+    "I-Reagent/kit/staining solution Manufacturer and Catalog Number": 16,
+    "B-Culture duration (Days/Weeks)": 17,
+    "I-Culture duration (Days/Weeks)": 18
+}
