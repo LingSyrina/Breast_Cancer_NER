@@ -28,3 +28,19 @@ For large-batch-data with 500 papers:
 | Cell Density (cells/well)                                     | 57     |
 | Culture duration (Days/Weeks)                                 | 5      |
 | Reagent/kit/staining solution Manufacturer and Catalog Number | 3      |
+
+## NER Label Distribution from prediction trained with large-batch-data: 
+
+| ID  | Label            | Count  |
+|-----|------------------|--------|
+| 0   | O                | 609268 |
+| 6   | B-CellLine       | 14093  |
+| 7   | I-CellLine       | 1727   |
+| 1   | B-Drug           | 790    |
+| 5   | I-Drug           | 468    |
+| 10  | I-Incubation     | 344    |
+| 9   | B-Incubation     | 271    |
+| 2   | L)               | 223    |
+| 3   | I-Cell           | 193    |
+| 4   | well)            | 193    |
+| 8   | day)             | 151    |
